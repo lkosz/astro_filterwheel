@@ -6,6 +6,6 @@
 
 openscad file: [wheel.scad](wheel.scad)
 
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
+![1.png](1.png)
+![2.png](2.png)
+![3.png](3.png)
